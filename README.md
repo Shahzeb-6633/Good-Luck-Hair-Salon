@@ -248,7 +248,7 @@
   <section id="contact" class="tab-section">
     <h2>Contact Us</h2>
     <p><strong>Address:</strong> Shop-7, Ganpati Market, Sector-15, Rourkela - 769003, Odisha</p>
-    <p><strong>Get Directions:</strong> <a href="https://maps.app.goo.gl/4W3qRF53FUJ3gcj77" target="_blank">Google Maps</a></p>
+    <p><strong>Get Directions:</strong> <a href="https://maps.app.goo.gl/YjhaKU7o7ZdKMVw5A" target="_blank">Good Luck Hair Salon</a></p>
     <p><strong>Phone:</strong> +91-9938646661</p>
   </section>
 
