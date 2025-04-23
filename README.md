@@ -193,7 +193,7 @@
 
   <section id="home" class="tab-section">
     <h2>WELCOME TO GOOD LUCK HAIR SALON</h2>
-    <img src="shah_rukh_khan_" alt="Shahrukh Khan" class="srk-img">
+    <img src="shah_rukh_khan_.jpeg" alt="Shahrukh Khan" class="srk-img">
     <p class="tagline">"Where Style Meets Royalty – Be the Star You Are!"</p>
     <a href="#contact" class="btn">BOOK YOUR APPOINTMENT</a>
   </section>
@@ -202,37 +202,37 @@
     <h2>FEATURED SERVICES</h2>
     <div class="services">
       <div class="service">
-        <img src="pexels-ryank-12304506" alt="Hair Cut for Men" />
+        <img src="pexels-ryank-12304506.jpg" alt="Hair Cut for Men" />
         <h3>Hair Cut for Men</h3>
         <p>₹200</p>
       </div>
       <div class="service">
-        <img src="MEN hair color" alt="Hair Colour for Men" />
+        <img src="MEN hair color.jpg" alt="Hair Colour for Men" />
         <h3>Hair Colour for Men</h3>
         <p>₹350</p>
       </div>
       <div class="service">
-        <img src="pexels-thgusstavo-2881253" alt="Hair & Beard Styling for Men" />
+        <img src="pexels-thgusstavo-2881253.jpg" alt="Hair & Beard Styling for Men" />
         <h3>Hair and Beard Styling for Men</h3>
         <p>₹300</p>
       </div>
       <div class="service">
-        <img src="pexels-n-voitkevich-8468039" alt="Hair Cut and Styling for Women" />
+        <img src="pexels-n-voitkevich-8468039.jpg" alt="Hair Cut and Styling for Women" />
         <h3>Hair Cut and Styling for Women</h3>
         <p>₹400</p>
       </div>
       <div class="service">
-        <img src="pexels-cottonbro-3993323" alt="Hair Colour for Women" />
+        <img src="pexels-cottonbro-3993323.jpg" alt="Hair Colour for Women" />
         <h3>Hair Colour for Women</h3>
         <p>₹500</p>
       </div>
       <div class="service">
-        <img src="pexels-cottonbro-4812649" alt="Skin Care for Men" />
+        <img src="pexels-cottonbro-4812649.jpg" alt="Skin Care for Men" />
         <h3>Skin Care for Men</h3>
         <p>₹250</p>
       </div>
       <div class="service">
-        <img src="pexels-kerimeveyik-16100124" alt="Skin Care for Women" />
+        <img src="pexels-kerimeveyik-16100124.jpg" alt="Skin Care for Women" />
         <h3>Skin Care for Women</h3>
         <p>₹300</p>
       </div>
