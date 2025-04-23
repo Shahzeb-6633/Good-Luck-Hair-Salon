@@ -1,5 +1,4 @@
 # Good-Luck-Hair-Salon
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -194,7 +193,7 @@
 
   <section id="home" class="tab-section">
     <h2>WELCOME TO GOOD LUCK HAIR SALON</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Shah_Rukh_Khan_grace_the_launch_of_Suzan_Nanda%27s_book.jpg" alt="Shahrukh Khan" class="srk-img">
+    <img src="shah_rukh_khan_" alt="Shahrukh Khan" class="srk-img">
     <p class="tagline">"Where Style Meets Royalty – Be the Star You Are!"</p>
     <a href="#contact" class="btn">BOOK YOUR APPOINTMENT</a>
   </section>
@@ -203,37 +202,37 @@
     <h2>FEATURED SERVICES</h2>
     <div class="services">
       <div class="service">
-        <img src="https://i.imgur.com/X0n5bZL.jpg" alt="Hair Cut for Men" />
+        <img src="pexels-ryank-12304506" alt="Hair Cut for Men" />
         <h3>Hair Cut for Men</h3>
         <p>₹200</p>
       </div>
       <div class="service">
-        <img src="https://i.imgur.com/0A5pFcl.jpg" alt="Hair Colour for Men" />
+        <img src="MEN hair color" alt="Hair Colour for Men" />
         <h3>Hair Colour for Men</h3>
         <p>₹350</p>
       </div>
       <div class="service">
-        <img src="https://i.imgur.com/q3tW12K.jpg" alt="Hair & Beard Styling for Men" />
+        <img src="pexels-thgusstavo-2881253" alt="Hair & Beard Styling for Men" />
         <h3>Hair and Beard Styling for Men</h3>
         <p>₹300</p>
       </div>
       <div class="service">
-        <img src="https://i.imgur.com/ViL2KLo.jpg" alt="Hair Cut and Styling for Women" />
+        <img src="pexels-n-voitkevich-8468039" alt="Hair Cut and Styling for Women" />
         <h3>Hair Cut and Styling for Women</h3>
         <p>₹400</p>
       </div>
       <div class="service">
-        <img src="https://i.imgur.com/Nh4AkzJ.jpg" alt="Hair Colour for Women" />
+        <img src="pexels-cottonbro-3993323" alt="Hair Colour for Women" />
         <h3>Hair Colour for Women</h3>
         <p>₹500</p>
       </div>
       <div class="service">
-        <img src="https://i.imgur.com/nR49dIN.jpg" alt="Skin Care for Men" />
+        <img src="pexels-cottonbro-4812649" alt="Skin Care for Men" />
         <h3>Skin Care for Men</h3>
         <p>₹250</p>
       </div>
       <div class="service">
-        <img src="https://i.imgur.com/2xQnJLs.jpg" alt="Skin Care for Women" />
+        <img src="pexels-kerimeveyik-16100124" alt="Skin Care for Women" />
         <h3>Skin Care for Women</h3>
         <p>₹300</p>
       </div>
@@ -242,15 +241,15 @@
 
   <section id="about" class="tab-section">
     <h2>About Us</h2>
-    <p>Good Luck Hair Salon is your one-stop destination for style, grooming, and beauty. We are passionate about helping you express your identity through personalized hair and skin services. With expert stylists and a calm, luxurious environment, we ensure you always leave looking and feeling your best.</p>
+    <p>Welcome to GOOD LUCK HAIR SALON, where beauty is more than skin deep- it's an experience. From the moment you walk through our doors, you will be greeted with warmth and sophistication. We will give you absolutely the best. Whether you are preparing for a big event or indulging in a little self care. From precision haircuts and luxurious color treatments to facials and skin cares, every service is crafted with passion. Relax in our salon desingned to melt away the stress of the day and leave with glow that is both seen and felt.
+    At GOOD LUCK HAIR SALON, we don't just enhance your beauty- we celebrate it. Come discover the difference a truly elevated salon experience can make. Contact us for booking.</p>
   </section>
 
   <section id="contact" class="tab-section">
     <h2>Contact Us</h2>
-    <p><strong>Address:</strong> Main Road, Udit Nagar, Rourkela - 769012, Odisha</p>
+    <p><strong>Address:</strong> Shop-7, Ganpati Market, Sector-15, Rourkela - 769003, Odisha</p>
     <p><strong>Get Directions:</strong> <a href="https://maps.google.com" target="_blank">Google Maps</a></p>
-    <p><strong>Phone:</strong> +91-9876543210</p>
-    <p><strong>Email:</strong> goodlucksalon@example.com</p>
+    <p><strong>Phone:</strong> +91-9938646661</p>
   </section>
 
   <footer>
